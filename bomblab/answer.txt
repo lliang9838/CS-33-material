@@ -1,0 +1,7 @@
+Verbosity leads to unclear, inarticulate things.
+3 4 6 9 13 18
+4 0 
+1 11 DrEvil
+ionefg
+4 3 5 1 2 6
+36
